@@ -6,9 +6,11 @@
    
    -> cmake -B/home/vikrant/Data_Structures_Algorithms/build -H/home/vikrant/Data_Structures_Algorithms
 
-2. Go to the build folder , run make and it will build a executable file which can be run via command prompt.
+2. Go to the build/src folder , run make and it will build a executable file which can be run via command prompt.
+
+ ->./core
 
 ## LinkedList Problems
 | Problem | Solution |
 | :------------ | :----------: |
-| Create a linked list to store the ID & names of the employes dynamically , Search the Info of employee & Delete the data of the employee. |[linkedlist.c](),
+| Create a linked list to store the ID & names of the employes dynamically , Search the Info of employee & Delete the data of the employee. |[linkedlist.c](https://github.com/vikrantdeveloper/Data_Structures_Algorithms/blob/master/src/linkedlist.c),
