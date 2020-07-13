@@ -7,8 +7,10 @@
    -> cmake -B/home/vikrant/Data_Structures_Algorithms/build -H/home/vikrant/Data_Structures_Algorithms
 
 2. Go to the build/src folder , run make and it will build a executable file which can be run via command prompt.
+   
+    ->./core
 
- ->./core
+3. Make sure to include the header file in headerfile.h in inc to complie specify data structures problem & include that specific file in cmakelist
 
 ## Data Structures Problems
 | Problem | Solution |
