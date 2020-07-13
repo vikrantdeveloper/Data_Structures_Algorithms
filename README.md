@@ -10,7 +10,7 @@
    
     ->./core
 
-3. Make sure to include the header file in headerfile.h in inc to complie specify data structures problem & include that specific file in cmakelist
+3. Make sure to include the header file in headerfile.h in inc folder to complie specify data structures problem & include that specific file in cmakelist
 
 ## Data Structures Problems
 | Problem | Solution |
