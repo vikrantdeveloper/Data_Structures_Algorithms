@@ -3,6 +3,7 @@
 
 ## CMake Complication process
 1. Create the build folder using the commands 
+   
    -> cmake -B/home/vikrant/Data_Structures_Algorithms/build -H/home/vikrant/Data_Structures_Algorithms
 
 2. Go to the build folder , run make and it will build a executable file which can be run via command prompt.
