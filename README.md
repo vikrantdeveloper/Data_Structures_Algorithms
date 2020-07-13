@@ -1,5 +1,5 @@
 ## Algorithms & Data Structures problems using C/C++
-> Data Structures problem are well covered in the coursesection in c & c++. This repository contains programs of various introductory data structures concepts and source codes implemented in C/C++ programming language tested on gcc (linux).
+> Data Structures problem are well covered in the coursesection in c & c++. This repository contains programs of various introductory data structures concepts and source codes implemented in C/C++ programming language.
 
 ## How to run a C program using make in terminal (Linux)?
 
