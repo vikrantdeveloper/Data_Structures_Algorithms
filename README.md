@@ -10,7 +10,8 @@
 
  ->./core
 
-## LinkedList Problems
+## Data Structures Problems
 | Problem | Solution |
 | :------------ | :----------: |
-| Create a linked list to store the ID & names of the employes dynamically , Search the Info of employee & Delete the data of the employee. |[linkedlist.c](https://github.com/vikrantdeveloper/Data_Structures_Algorithms/blob/master/src/linkedlist.c),
+| Create a linked list to store the ID & names of the employes dynamically , Search the Info of employee & Delete the data of the employee. |[linkedlist.c](https://github.com/vikrantdeveloper/Data_Structures_Algorithms/blob/master/src/linkedlist.c)
+|Sort a given array using three sorting algos - Insert sort ,selection sort & bubble sort|[sorting.c](https://github.com/vikrantdeveloper/Data_Structures_Algorithms/blob/master/src/sorting.c)
